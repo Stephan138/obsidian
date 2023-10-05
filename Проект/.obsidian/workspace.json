@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Usecase/Usecase.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +31,7 @@
       {
         "id": "c40b725a42eb941d",
         "type": "tabs",
-        "dimension": 58.49256900212313,
+        "dimension": 78.76857749469215,
         "children": [
           {
             "id": "499fe4048d51cab8",
@@ -87,15 +87,15 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
-        "id": "09176e026e603bb8",
+        "id": "f200797641085d5d",
         "type": "tabs",
-        "dimension": 41.50743099787687,
+        "dimension": 21.231422505307858,
         "children": [
           {
-            "id": "9468c95c5cf3cae1",
+            "id": "8dc8e4f6eacbe762",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -185,11 +185,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e4b7770da82f1106",
+  "active": "652451cc8703f717",
   "lastOpenFiles": [
+    "Usecase/Диаграммы/Diagram1.svg",
     "Usecase/Диаграммы/Diagram2.svg",
     "Usecase/Usecase.md",
-    "Usecase/Диаграммы/Diagram1.svg",
     "Без названия.md",
     "Untitled Diagram.svg.md",
     "Без названия.canvas",
